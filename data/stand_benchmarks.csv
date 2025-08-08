@@ -1,0 +1,4 @@
+forest_type,location,altitude_m,stems_per_ha,biomass_mg_ha,c_stock_mgc_ha,cseq_mgc_ha_yr,species_group,region_class,reference
+Subtropical Sal (present),Nainital,320,756,577.16,274.15,4.63,Sal,Subtropical,Present study (Nainital)
+Pine Central Himalaya (present),Nainital,1850,650,285.27,135.50,4.83,ChirPine,Temperate,Present study (Nainital)
+Mixed Oak Central Himalaya (present),Nainital,2125,884,227.23,107.94,4.47,Oak,Temperate,Present study (Nainital)

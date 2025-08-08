@@ -1,0 +1,7 @@
+species,K_biomass_kg,r_growth,t0_inflection,carbon_fraction,root_shoot_ratio
+Teak,500.0,0.3,8.0,0.47,0.28
+Eucalyptus,400.0,0.35,6.0,0.47,0.25
+Mangrove,300.0,0.25,7.0,0.48,0.4
+Sal,600.0,0.26,9.0,0.47,0.28
+ChirPine,350.0,0.24,8.0,0.47,0.25
+Oak,400.0,0.22,10.0,0.48,0.35

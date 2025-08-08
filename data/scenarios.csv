@@ -1,0 +1,7 @@
+scenario,species,region,trees_planted,years
+S-1K-Teak-Trop,Teak,Tropical,1000,20
+S-1K-Euca-Sub,Eucalyptus,Subtropical,1000,20
+S-500-Mang-Temp,Mangrove,Temperate,500,20
+S-1K-Sal-Sub,Sal,Subtropical,1000,20
+S-1K-Pine-Temp,ChirPine,Temperate,1000,20
+S-1K-Oak-Temp,Oak,Temperate,1000,20

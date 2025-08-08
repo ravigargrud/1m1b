@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2ea043"            # vibrant green
+backgroundColor = "#f5fbf7"         # very light mint
+secondaryBackgroundColor = "#eaf6ef" # light green panel
+textColor = "#0b3d2e"               # deep green/teal text
+base = "light"

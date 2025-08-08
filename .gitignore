@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+!.vscode/tasks.json
+
+# Data and cache
+*.csv
+!data/*.csv
+*.parquet
+*.feather
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

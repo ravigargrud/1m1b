@@ -1,0 +1,80 @@
+{
+  "project": {
+    "title": "Afforestation Impact Modeling",
+    "category": "Carbon Footprint Reduction",
+    "difficulty_level": "Intermediate",
+    "time_required_hours": 30,
+    "team_size": {
+      "min": 2,
+      "max": 3
+    },
+    "problem_statement": "Tree-planting projects need quantitative data on how much CO₂ they sequester over time, but calculating long-term sequestration and ecological impact is complex.",
+    "solution": {
+      "description": "Create a model in Python to estimate CO₂ capture by newly planted trees. Gather data on regional tree growth rates, carbon content of biomass, and survival rates. Simulate tree growth over 10–20 years to compute total carbon stored.",
+      "features": [
+        "Species-specific CO₂ sequestration modeling",
+        "Regional growth rate integration",
+        "Scenario simulation for different planting strategies",
+        "Case studies: e.g., 'planting 1,000 teak trees will sequester X tons CO₂'"
+      ]
+    },
+    "skills": {
+      "green_skills": [
+        "Carbon cycle understanding",
+        "Ecosystem service evaluation",
+        "Forestry management"
+      ],
+      "tech_skills": [
+        "Python (simulation modeling)",
+        "Data analysis",
+        "Report writing"
+      ]
+    },
+    "work_breakdown_structure": [
+      {
+        "phase": "Data Collection",
+        "tasks": [
+          "Obtain growth curves for target tree species",
+          "Collect carbon fixation rates",
+          "Gather regional survival rate data"
+        ]
+      },
+      {
+        "phase": "Model Development",
+        "tasks": [
+          "Write Python scripts to project biomass and carbon storage",
+          "Implement 10–20 year growth simulation"
+        ]
+      },
+      {
+        "phase": "Scenario Analysis",
+        "tasks": [
+          "Run simulations for various planting scales",
+          "Analyze species mixes and regional variations"
+        ]
+      },
+      {
+        "phase": "Results Presentation",
+        "tasks": [
+          "Generate graphs of carbon uptake over time",
+          "Build an interactive visualization tool"
+        ]
+      },
+      {
+        "phase": "Policy Brief",
+        "tasks": [
+          "Summarize findings for local government planners",
+          "Prepare recommendations for land-use strategies"
+        ]
+      }
+    ],
+    "impact_metric": "Estimated metric tons of CO₂ sequestered over a 10–20 year timeline per 100 trees planted (by species and region).",
+    "deep_impact_possibility": [
+      "Integration into campus sustainability strategies",
+      "CSR land reclamation projects",
+      "Public-sector carbon offset registries",
+      "Support for corporate green credits",
+      "Embedding into municipal or educational climate dashboards"
+    ]
+  }
+}
