@@ -14,8 +14,14 @@ A Python project to model CO₂ sequestration from tree-planting initiatives ove
      ```powershell
      python -m venv .venv; .\.venv\Scripts\Activate.ps1
      ```
+    - macOS / Linux (bash/zsh):
+     ```bash
+     python3 -m venv .venv && source .venv/bin/activate
+     ```
+
 2. Install requirements
    ```powershell
+   pip install --upgrade pip
    pip install -r requirements.txt
    ```
 3. Generate synthetic datasets and run a demo simulation
